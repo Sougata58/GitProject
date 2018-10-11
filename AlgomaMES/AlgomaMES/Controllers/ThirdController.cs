@@ -11,6 +11,7 @@ namespace AlgomaMES.Controllers
         // GET: Third
         public ActionResult Index()
         {
+            string s;
             return View();
         }
     }
