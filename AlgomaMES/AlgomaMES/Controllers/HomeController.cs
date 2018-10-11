@@ -10,7 +10,7 @@ namespace AlgomaMES.Controllers
     {
         public ActionResult Index()
         {
-            string s = "I have made some change here";
+            string s = "I have made some change here and I am sorry for that";
             return View();
         }
 
