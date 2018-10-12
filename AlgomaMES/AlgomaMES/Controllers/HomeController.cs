@@ -11,7 +11,7 @@ namespace AlgomaMES.Controllers
         public ActionResult Index()
         {
             string s = "I have made some change here and I am sorry for that";
-          
+            string name = "Sougata";
             return View();
         }
 
